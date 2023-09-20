@@ -74,7 +74,16 @@ I firmly believe that my capacity to ingeniously address challenges, coupled wit
 ![](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white) 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  -->
+## ⚒️   My projects:
 
+### Sallefy
+### Arrakys System
+### CEasy
+### DogBot
+### Battle Arena
+### RPC-basedChat
+### Music App
+### Minder
 
 ## 📈   Some of my stats are:
 ![Oscar's GitHub stats]
