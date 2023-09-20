@@ -74,21 +74,34 @@ I firmly believe that my capacity to ingeniously address challenges, coupled wit
 ![](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white) 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  -->
-## ⚒️   My projects:
+## ⚒️   My University Projects:
 
-### Sallefy
-### Arrakys System
-### CEasy
-### DogBot
-### Battle Arena
-### RPC-basedChat
-### Music App
-### Minder
+### [Sallefy](https://github.com/oscarjuly23?tab=repositories/)
+Android Music App that implements functionalities such as play tracks, create playlists, share music and others. The project focuses on enhancing the user experience and applying software design and architecture principles in mobile application development.
+
+### [Minder](https://github.com/oscarjuly23?tab=repositories/) 
+A desktop application designed in Java to facilitate student connections and collaboration on projects and practices. The application utilizes a client-server architecture and enables users to search for and connect with others who share their programming language, facilitating collaboration on projects. It also offers messaging features and provides statistics on the number of matches made within the application.
+
+### [Battle-Arena](https://github.com/oscarjuly23?tab=repositories/) 
+An online role-playing game using standard web technologies such as HTML, CSS, and JavaScript. The game involves the use of server APIs to handle player creation, real-time communication, and the collection of information about enemies and objects. We applied our expertise in web programming, user interface design, and game logic while creating this online gaming experience.
+
+### [CEasy](https://github.com/oscarjuly23?tab=repositories/) 
+Design and development of a compiler for a custom programming language. This project combines advanced compilation concepts, Java programming, and computer architecture knowledge in a collaborative development approach.
+
+### [DogBot](https://github.com/oscarjuly23?tab=repositories/) 
+Python-based chatbot application hosted on Telegram, designed to recommend dog breeds to users. The chatbot uses a weighting algorithm that takes into account various attributes, such as the user's purpose for having a dog, size, and environment, to determine the most compatible dog breed. The system utilizes the NLTK library for natural language processing and a response dictionary to interact with users in a more human-like manner.
+
+### [Music App](https://github.com/oscarjuly23?tab=repositories/) 
+iOS mobile application developed in Swift, focused on a musical artist. The application provides information about the artist, their songs, concerts, and more. It includes features such as a login and registration system using Firebase, a tabbed navigation menu, a user profile screen, and access to song lyrics.
+
+### [Arrakys System](https://github.com/oscarjuly23?tab=repositories/)
+Implementation of a distributed architecture that focuses on solving process concurrency and multitasking using sockets, threads, and other mechanisms of the operating system kernel.
+
+<!--
+## ⚒️   My Personal Projects:
+ -->
 
 ## 📈   Some of my stats are:
-![Oscar's GitHub stats]
-
-
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarjuly23&show_icons=true&theme=radical" />
 </p>
