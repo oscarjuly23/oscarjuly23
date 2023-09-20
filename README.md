@@ -74,7 +74,7 @@ I firmly believe that my capacity to ingeniously address challenges, coupled wit
 ![](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white) 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  -->
-## ⚒️   My University Projects:
+## ⚒️   Some University Projects:
 
 ### [Sallefy](https://github.com/oscarjuly23?tab=repositories/)
 Android Music App that implements functionalities such as play tracks, create playlists, share music and others. The project focuses on enhancing the user experience and applying software design and architecture principles in mobile application development.
