@@ -10,7 +10,7 @@ Presently, I am actively seeking employment opportunities within the technology 
 
 I firmly believe that my capacity to ingeniously address challenges, coupled with my unwavering dedication to continuous learning, underscore my standing as a valuable and resolute professional within this domain.
 
-## 💻 Some technologies I use:
+## 💻 Some technologies I learned:
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
