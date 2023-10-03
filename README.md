@@ -99,7 +99,7 @@ Implementation of a distributed architecture that focuses on solving process con
 
 <!--
 ## ⚒️   My Personal Projects:
- -->
+ 
 
 ## 📈   Some of my stats are:
 <p align="center">
@@ -109,6 +109,5 @@ Implementation of a distributed architecture that focuses on solving process con
   <img align="" src="https://github-readme-stats.vercel.app/api?username=oscarjuly23&show_icons=true&theme=radical" />
 </p>
 
-<!--
 **oscarjuly23/oscarjuly23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
