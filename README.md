@@ -9,9 +9,9 @@ I firmly believe that my capacity to ingeniously address challenges, coupled wit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/oscarjuly97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscarjuly97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oscar-julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-julian" height="30" width="40" /></a>
  <a href="https://mycurriculum.salleurl.edu/oscar-julian/#home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png" alt="oscarjuly97" height="30" width="30" /></a>
+<a href="https://twitter.com/oscarjuly97" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="oscarjuly97" height="30" width="30" /></a>
 </p>
 
 ## 💻 Some technologies I learned:
