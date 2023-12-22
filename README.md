@@ -19,7 +19,7 @@ I firmly believe that my capacity to ingeniously address challenges, coupled wit
 
 ## ⚒️   Some University Projects:
 
-### [Sallefy](https://github.com/oscarjuly23?tab=repositories/)
+### [Sallefy](https://github.com/oscarjuly23/Sallefy)
 Android Music App that implements functionalities such as play tracks, create playlists, share music and others. The project focuses on enhancing the user experience and applying software design and architecture principles in mobile application development.
 
 ### [Minder](https://github.com/oscarjuly23/MINDER) 
