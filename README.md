@@ -31,7 +31,7 @@ An online role-playing game using standard web technologies such as HTML, CSS, a
 ### [CEasy](https://github.com/oscarjuly23?tab=repositories/) 
 Design and development of a compiler for a custom programming language. This project combines advanced compilation concepts, Java programming, and computer architecture knowledge in a collaborative development approach.
 
-### [DogBot](https://github.com/oscarjuly23?tab=repositories/) 
+### [DogBot](https://github.com/oscarjuly23/DogBot/blob/main/README.md) 
 Python-based chatbot application hosted on Telegram, designed to recommend dog breeds to users. The chatbot uses a weighting algorithm that takes into account various attributes, such as the user's purpose for having a dog, size, and environment, to determine the most compatible dog breed. The system utilizes the NLTK library for natural language processing and a response dictionary to interact with users in a more human-like manner.
 
 ### [Music App](https://github.com/oscarjuly23?tab=repositories/) 
