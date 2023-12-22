@@ -25,7 +25,7 @@ Android Music App that implements functionalities such as play tracks, create pl
 ### [Minder](https://github.com/oscarjuly23/MINDER) 
 A desktop application designed in Java to facilitate student connections and collaboration on projects and practices. The application utilizes a client-server architecture and enables users to search for and connect with others who share their programming language, facilitating collaboration on projects. It also offers messaging features and provides statistics on the number of matches made within the application.
 
-### [Battle-Arena](https://github.com/oscarjuly23?tab=repositories/) 
+### [Battle-Arena](https://github.com/oscarjuly23/Battle-Arena/tree/main) 
 An online role-playing game using standard web technologies such as HTML, CSS, and JavaScript. The game involves the use of server APIs to handle player creation, real-time communication, and the collection of information about enemies and objects. We applied our expertise in web programming, user interface design, and game logic while creating this online gaming experience.
 
 ### [CEasy](https://github.com/oscarjuly23?tab=repositories/) 
