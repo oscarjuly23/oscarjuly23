@@ -34,10 +34,10 @@ Design and development of a compiler for a custom programming language. This pro
 ### [DogBot](https://github.com/oscarjuly23/DogBot) 
 Python-based chatbot application hosted on Telegram, designed to recommend dog breeds to users. The chatbot uses a weighting algorithm that takes into account various attributes, such as the user's purpose for having a dog, size, and environment, to determine the most compatible dog breed. The system utilizes the NLTK library for natural language processing and a response dictionary to interact with users in a more human-like manner.
 
-### [Music App](https://github.com/oscarjuly23?tab=repositories/) 
+### [Music App](https://github.com/oscarjuly23/KeoApp) 
 iOS mobile application developed in Swift, focused on a musical artist. The application provides information about the artist, their songs, concerts, and more. It includes features such as a login and registration system using Firebase, a tabbed navigation menu, a user profile screen, and access to song lyrics.
 
-### [Arrakys System](https://github.com/oscarjuly23?tab=repositories/)
+### [Arrakys System](https://github.com/oscarjuly23/ArrakisSystem)
 Implementation of a distributed architecture that focuses on solving process concurrency and multitasking using sockets, threads, and other mechanisms of the operating system kernel.
 
 
