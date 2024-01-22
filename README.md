@@ -45,8 +45,6 @@ Implementation of a distributed architecture that focuses on solving process con
 <!--
 ## ⚒️   My Personal Projects:
  
--->
-## 📈   Some of my stats are:
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarjuly23&show_icons=true&theme=radical" />
 </p>
@@ -55,6 +53,10 @@ Implementation of a distributed architecture that focuses on solving process con
 </p>
 
 ## STATS FETAS PEL GENERATOR:
+
+-->
+
+## 📈   Some of my stats are:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarjuly23&show_icons=true&locale=en&layout=compact" alt="oscarjuly23" /></p>
 
