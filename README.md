@@ -54,7 +54,6 @@ Implementation of a distributed architecture that focuses on solving process con
 
 ## STATS FETAS PEL GENERATOR:
 
--->
 
 ## 📈   Some of my stats are:
 
@@ -65,5 +64,6 @@ Implementation of a distributed architecture that focuses on solving process con
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarjuly23&" alt="oscarjuly23" /></p>
 
 -----------------
+-->
 
 
