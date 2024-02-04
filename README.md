@@ -1,11 +1,11 @@
 <h1 align="left">Hi there, I'm Oscar 👋</h1>
-<h3 align="left">Data Engineer | Computer Engineering @ LaSalle | #Analytics #Python</h3>
+<h3 align="left">Data & Analytics Engineer | Computer Engineering @ LaSalle | #Analytics #Python</h3>
 
-I am a student of computer engineering with a profound enthusiasm for technology and innovation. I have acquired substantial proficiency in programming, data analysis, and systems administration.
+As a Data & Analytics Engineer, I blend a background in computer engineering with a keen passion for technology and innovation. My expertise lies in programming, data analysis, and systems administration, providing me with a strong foundation in the realm of data science.
 
-Presently, I am actively seeking employment opportunities within the technology sector. I aspire to leverage my extensive experience and knowledge to contribute to pioneering projects. What propels my commitment to this sector is the prospect of remaining at the vanguard of digital transformation and crafting solutions that exert a positive influence on society.
+Actively pursuing opportunities within the technology sector, I am driven by the desire to apply my extensive knowledge to transformative projects. My commitment to this field is fueled by the opportunity to stay at the forefront of digital evolution, crafting solutions that positively impact society.
 
-I firmly believe that my capacity to ingeniously address challenges, coupled with my unwavering dedication to continuous learning, underscore my standing as a valuable and resolute professional within this domain.
+I believe that my ability to creatively tackle challenges, combined with my unwavering commitment to continuous learning, positions me as a valuable and determined professional in the dynamic field of data science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
